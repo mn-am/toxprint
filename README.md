@@ -1,6 +1,6 @@
 # Welcome to ToxPrint
 
-[​ToxPrint](http://toxprint.org) is a publicly-available invariant reference set (or library) of structural features (substructures) targeted to cover chemical structures from the large toxicity databases and regulatory inventories (Yang, 2015). ToxPrint chemotypes were developed by Altamira LLC (now part of [​MN-AM](https://www.mn-am.com/)) for the CERES (Chemical Evaluation and Risk Estimation System) project of US FDA Center for Food Safety and Applied Nutrition (CFSAN). Chemotypes including the ToxPrint chemotypes are implemented in the ChemoTyper, which was contracted from US FDA to Molecular Networks GmbH (now part of [​MN-AM](https://www.mn-am.com/))
+[​ToxPrint](http://toxprint.org) is a publicly-available invariant reference set (or library) of structural features (substructures) targeted to cover chemical structures from the large toxicity databases and regulatory inventories (Yang, 2015). ToxPrint chemotypes were developed by Altamira LLC (now part of [​MN-AM](https://www.mn-am.com/)) for the CERES (Chemical Evaluation and Risk Estimation System) project of US FDA Center for Food Safety and Applied Nutrition (CFSAN). Chemotypes including the ToxPrint chemotypes are implemented in the ChemoTyper, which was contracted from US FDA to Molecular Networks GmbH (now part of [​MN-AM](https://www.mn-am.com/)).
 
 ## Chemotypes
 
@@ -35,7 +35,7 @@ When characterizing different databases, TTC datasets, or inventories to differe
 *   [​Organic Flame Retardant Chemotypes](http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=25412)
 *   Antimicrobial Chemotypes (Yang 2020)
 
-The ToxPrint chemotype library is implemented in [CSRML language and can be applied using the publicly available [​ChemoTyper application](http://chemotyper.org).
+The ToxPrint chemotype library is implemented in the XML-based CSRML language and can be applied using the publicly available [​ChemoTyper application](http://chemotyper.org).
 
 ## Updates
 
@@ -77,11 +77,12 @@ Please [login](/login) if you have already an account or [register](/register).
 
 ## Contact
 
-In technical support issues please contact us through: [​info@toxprint.org](mailto:info@toxprint.org)
+In technical support issues please contact us through [​info@toxprint.org](mailto:info@toxprint.org)
 
 ## Acknowledgement
 
 Visit the [​website](https://www.mn-am.com) of Molecular Networks GmbH and Altamira LLC.
 
 The ChemoTyper application was developed by MN-AM (Molecular Networks GmbH, Nurnberg, Germany and Altamira LLC, Columbus, OH, USA) under a contract from the U.S. FDA, Center for Food Safety and Applied Nutrition (CFSAN), Office of Food Additive Safety.
+
 The CSRML-based ToxPrint chemotypes were developed by MN-AM while Chihae Yang was working at US FDA CFSAN, hence both ChemoTyper and ToxPrint Chemotypes are donated for public use.
