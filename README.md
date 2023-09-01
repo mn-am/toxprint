@@ -48,7 +48,7 @@ The Chemotype Editor is a graphical user interface (GUI) application for creatin
 The Chemotype Editor is available for download at the [​ChemoTyper](http://chemotyper.org) website.
 
 ## Publications about ToxPrint chemotypes, CSRML language, and ChemTyper application
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 *   [C Yang, M Cheeseman, J Rathman, A Mostrag, N Skouli, V Vitcheva, S Goldberg. A new paradigm in threshold of toxicological concern based on chemoinformatics analysis of a highly curated database enriched with antimicrobials. *Food and Chemical Toxicology* **2020**, *143*, 111561.](https://doi.org/10.1016/j.fct.2020.111561)
 
 *   [K ​Paul-Friedman, M Gagne, L-H Loo, P Karamertzanis, T Netzeva, T Sobanski, J Franzosa, AM Richard, R Lougee, A Gissi, J-Y Joey Lee, M Angrish, J-L Dorne, S Foster, K Raffaele, T Bahadori, M Gwinn, J Lambert, M Whelan, M Rasenberg, T Barton-Maclaren, RS Thomas. Utility of In Vitro Bioactivity as a Lower Bound Estimate of In Vivo Adverse Effect Levels and in Risk-Based Prioritization. *Toxicol. Sci.* **2020**, *173*, 202-225.](https://doi.org/10.1093/toxsci/kfz201)
