@@ -37,13 +37,9 @@ When characterizing different databases, TTC datasets, or inventories to differe
 
 The ToxPrint chemotype library is implemented in the XML-based CSRML language and can be applied using the publicly available [​ChemoTyper application](http://chemotyper.org).
 
-## Updates
+## Updating ToxPrint Chemotype File in ChemoTyper Application
 
-*   2014-06-11. The updated release 711 fixes the label assigned to the rule TXP-001-0270-0010-0050-0050 - there was an extra space character in the label, title, and comment. The updated ToxPrint file is available for download.
-
-*   2014-01-27. The updated release 219 fixes the issue with the incorrect structure representation in the rule TXP-004-0020-0200-0150-0150. The updated ToxPrint file is available for download.
-
-**Please note!** The updated ToxPrint CSRML file is not automatically replaced in your current [​ChemoTyper installation](http://chemotyper.org). Tuse the updated ToxPrint chemotypes in your ChemoTyper installation, please follow the instructions below.
+**Please note.** Updated ToxPrint CSRML files are not automatically replaced in your current [​ChemoTyper installation](http://chemotyper.org). To use new versions of ToxPrint chemotypes in your ChemoTyper installation, please follow the instructions below.
 
 *   Close the ChemoTyper application
 *   Download the ZIP archive that contains the latest ToxPrint CSRML file (named like "ToxPrint_V2.0_r<number>.xml"
@@ -51,13 +47,7 @@ The ToxPrint chemotype library is implemented in the XML-based CSRML language an
 *   Start Windows File Explorer with administrative privileges (use "Run as Administrator" command)
 *   Move the extracted ToxPrint_V2.0_r<number>.xml file you into the folder "share" of your ChemoTyper installation at "C:\Program files (x86)\Molecular Networks\ChemoTyper\share"
 
-After that the content of the latest ToxPrint file can be loaded in ChemoTyper as usual from the Start page of the ChemoTyper application.
-
-## Download
-
-The ToxPrint chemotypes (XML file) are available for download for registered users.
-
-Please [login](/login) if you have already an account or [register](/register).
+After that the content of the latest ToxPrint file can be loaded as usual from the Start page of the ChemoTyper application.
 
 ## References
 
@@ -77,7 +67,7 @@ Please [login](/login) if you have already an account or [register](/register).
 
 ## Contact
 
-For technical support please contact [​info@toxprint.org](mailto:info@toxprint.org).
+For technical support please contact [​support@mn-am.com](mailto:support@mn-am.org).
 
 ## Acknowledgement
 
