@@ -77,7 +77,7 @@ Please [login](/login) if you have already an account or [register](/register).
 
 ## Contact
 
-In technical support issues please contact us through [​info@toxprint.org](mailto:info@toxprint.org)
+For technical support please contact [​info@toxprint.org](mailto:info@toxprint.org).
 
 ## Acknowledgement
 
