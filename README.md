@@ -35,11 +35,31 @@ When characterizing different databases, TTC datasets, or inventories to differe
 *   [​Organic Flame Retardant Chemotypes](http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=25412)
 *   Antimicrobial Chemotypes (Yang 2020)
 
-ToxPrint is implemented in [​CSRML language](https://chemotyper.org/wiki/WikiStart#TheCSRMLReferenceImplementation) and can be applied using the publicly available [​ChemoTyper application](http://chemotyper.org).
+The ToxPrint chemotype library is implemented in [CSRML language and can be applied using the publicly available [​ChemoTyper application](http://chemotyper.org).
 
-ToxPrint chemotypes can be downloaded free-of-charge for public use.
+## Updates
 
-## Publications about ToxPrint chemotypes, CSRML language, and ChemTyper application
+*   2014-06-11. The updated release 711 fixes the label assigned to the rule TXP-001-0270-0010-0050-0050 - there was an extra space character in the label, title, and comment. The updated ToxPrint file is available for download.
+
+*   2014-01-27. The updated release 219 fixes the issue with the incorrect structure representation in the rule TXP-004-0020-0200-0150-0150. The updated ToxPrint file is available for download.
+
+**Please note!** The updated ToxPrint CSRML file is not automatically replaced in your current [​ChemoTyper installation](http://chemotyper.org). Tuse the updated ToxPrint chemotypes in your ChemoTyper installation, please follow the instructions below.
+
+*   Close the ChemoTyper application
+*   Download the ZIP archive that contains the latest ToxPrint CSRML file (named like "ToxPrint_V2.0_r<number>.xml"
+*   Extract its content into a folder of your choice, *e.g.*, "Documents"
+*   Start Windows File Explorer with administrative privileges (use "Run as Administrator" command)
+*   Move the extracted ToxPrint_V2.0_r<number>.xml file you into the folder "share" of your ChemoTyper installation at "C:\Program files (x86)\Molecular Networks\ChemoTyper\share"
+
+After that the content of the latest ToxPrint file can be loaded in ChemoTyper as usual from the Start page of the ChemoTyper application.
+
+## Download
+
+The ToxPrint chemotypes (XML file) are available for download for registered users.
+
+Please [login](/login) if you have already an account or [register](/register).
+
+## References
 
 *   [C Yang, M Cheeseman, J Rathman, A Mostrag, N Skouli, V Vitcheva, S Goldberg. A new paradigm in threshold of toxicological concern based on chemoinformatics analysis of a highly curated database enriched with antimicrobials. *Food and Chemical Toxicology* **2020**, *143*, 111561.](https://doi.org/10.1016/j.fct.2020.111561)
 
@@ -55,20 +75,6 @@ ToxPrint chemotypes can be downloaded free-of-charge for public use.
 
 *   [​C Yang, A Tarkhov, J Marusczyk, B Bienfait, J Gasteiger, T Kleinoeder, T Magdziarz, O Sacher, CH Schwab, JSchwoebel, L Terfloth, K Arvidson, A Richard, A Worth, J Rathman. New Publicly Available Chemical Query Language, CSRML, To Support Chemotype Representations for Application to Data Mining and Modeling. *J. Chem. Inf. Model.* **2015**, *55(3)*, 510-528.](http://pubs.acs.org/doi/abs/10.1021/ci500667v)
 
-## Updates
-
-*   2014-06-11. The updated release 711 fixes the label assigned to the rule TXP-001-0270-0010-0050-0050 - there was an extra space character in the label, title, and comment. The updated ToxPrint file is available for download.
-
-*   2014-01-27. The updated release 219 fixes the issue with the incorrect structure representation in the rule TXP-004-0020-0200-0150-0150. The updated ToxPrint file is available for download.
-
-**Please note!** The updated ToxPrint CSRML file is not automatically replaced in your current [​ChemoTyper installation](http://chemotyper.org). Tuse the updated ToxPrint chemotypes in your ChemoTyper installation, please follow these [instructions](/wiki/LatestToxPrintUsageInstructions).
-
-## Download
-
-The ToxPrint chemotypes (XML file) are available for download for registered users.
-
-Please [login](/login) if you have already an account or [register](/register).
-
 ## Contact
 
 In technical support issues please contact us through: [​info@toxprint.org](mailto:info@toxprint.org)
@@ -77,4 +83,5 @@ In technical support issues please contact us through: [​info@toxprint.org](ma
 
 Visit the [​website](https://www.mn-am.com) of Molecular Networks GmbH and Altamira LLC.
 
-The ChemoTyper application was developed by MN-AM (Molecular Networks GmbH, Nurnberg, Germany and Altamira LLC, Columbus, OH, USA) under a contract from the U.S. FDA, Center for Food Safety and Applied Nutrition (CFSAN), Office of Food Additive Safety. The CSRML-based ToxPrint chemotypes were developed by MN-AM while Chihae Yang was working at US FDA CFSAN, hence both ChemoTyper and ToxPrint Chemotypes are donated for public use.
+The ChemoTyper application was developed by MN-AM (Molecular Networks GmbH, Nurnberg, Germany and Altamira LLC, Columbus, OH, USA) under a contract from the U.S. FDA, Center for Food Safety and Applied Nutrition (CFSAN), Office of Food Additive Safety.
+The CSRML-based ToxPrint chemotypes were developed by MN-AM while Chihae Yang was working at US FDA CFSAN, hence both ChemoTyper and ToxPrint Chemotypes are donated for public use.
