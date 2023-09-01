@@ -67,7 +67,7 @@ After that the content of the latest ToxPrint file can be loaded as usual from t
 
 ## Contact
 
-For technical support please contact [​support@mn-am.com](mailto:support@mn-am.org).
+For technical support please contact [​support@mn-am.com](mailto:support@mn-am.com).
 
 ## Acknowledgement
 
