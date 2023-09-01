@@ -39,14 +39,6 @@ ToxPrint is implemented in [​CSRML language](https://chemotyper.org/wiki/WikiS
 
 ToxPrint chemotypes can be downloaded free-of-charge for public use.
 
-## The Chemotype Editor
-
-The Chemotype Editor is a graphical user interface (GUI) application for creating and editing chemotypes. Substructures and patterns can be drawn using a molecular editor or imported from an external file. Atoms, bonds, molecular annotations, and properties can be added with the GUI. Edited chemotypes can be saved in the XML-based Chemical Subgraphs and Reactions Mark-up Language (CSRML) and used as alerts or fingerprints.
-
-### Chemotype Editor Download
-
-The Chemotype Editor is available for download at the [​ChemoTyper](http://chemotyper.org) website.
-
 ## Publications about ToxPrint chemotypes, CSRML language, and ChemTyper application
 
 *   [C Yang, M Cheeseman, J Rathman, A Mostrag, N Skouli, V Vitcheva, S Goldberg. A new paradigm in threshold of toxicological concern based on chemoinformatics analysis of a highly curated database enriched with antimicrobials. *Food and Chemical Toxicology* **2020**, *143*, 111561.](https://doi.org/10.1016/j.fct.2020.111561)
@@ -69,7 +61,7 @@ The Chemotype Editor is available for download at the [​ChemoTyper](http://che
 
 *   2014-01-27. The updated release 219 fixes the issue with the incorrect structure representation in the rule TXP-004-0020-0200-0150-0150. The updated ToxPrint file is available for download.
 
-**Please note!** The updated file does not replace automatically the ToxPrint in your [​ChemoTyper installation](http://chemotyper.org). In order to use it with your ChemoTyper, please follow these [instructions](/wiki/LatestToxPrintUsageInstructions).
+**Please note!** The updated ToxPrint CSRML file is not automatically replaced in your current [​ChemoTyper installation](http://chemotyper.org). Tuse the updated ToxPrint chemotypes in your ChemoTyper installation, please follow these [instructions](/wiki/LatestToxPrintUsageInstructions).
 
 ## Download
 
@@ -86,5 +78,3 @@ In technical support issues please contact us through: [​info@toxprint.org](ma
 Visit the [​website](https://www.mn-am.com) of Molecular Networks GmbH and Altamira LLC.
 
 The ChemoTyper application was developed by MN-AM (Molecular Networks GmbH, Nurnberg, Germany and Altamira LLC, Columbus, OH, USA) under a contract from the U.S. FDA, Center for Food Safety and Applied Nutrition (CFSAN), Office of Food Additive Safety. The CSRML-based ToxPrint chemotypes were developed by MN-AM while Chihae Yang was working at US FDA CFSAN, hence both ChemoTyper and ToxPrint Chemotypes are donated for public use.
-
-The Chemotype Editor was developed by MN-AM with partial funds from Cosmetics Europe (ontology project) and IMI2 project eTRANSAFE. We also recognize the special consultations on using the JSME editor developed by Peter Ertl (Novartis) and Bruno Bienfait (MN-AM).
