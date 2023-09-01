@@ -53,7 +53,7 @@ The Chemotype Editor is available for download at the [​ChemoTyper](http://che
 
 *   [K ​Paul-Friedman, M Gagne, L-H Loo, P Karamertzanis, T Netzeva, T Sobanski, J Franzosa, AM Richard, R Lougee, A Gissi, J-Y Joey Lee, M Angrish, J-L Dorne, S Foster, K Raffaele, T Bahadori, M Gwinn, J Lambert, M Whelan, M Rasenberg, T Barton-Maclaren, RS Thomas. Utility of In Vitro Bioactivity as a Lower Bound Estimate of In Vivo Adverse Effect Levels and in Risk-Based Prioritization. *Toxicol. Sci.* **2020**, *173*, 202-225.](https://doi.org/10.1093/toxsci/kfz201)
 
-*   [MB ​Kosnik, JD Strickland, SW Marvel, D Wallis, K Wallace, AM Richard, DM Reif, TJ Shafer. Concentration-Response Evaluation of ToxCast Compounds for Multivariate Activity Patterns of Neural Network Function Archives of Toxicology. *Function. Arch. Toxicol.* **2019**, *94*, 469-484.](https://doi.org/10.1007/s00204-019-02636-x.](https://doi.org/10.1007/s00204-019-02636-x)
+*   [MB ​Kosnik, JD Strickland, SW Marvel, D Wallis, K Wallace, AM Richard, DM Reif, TJ Shafer. Concentration-Response Evaluation of ToxCast Compounds for Multivariate Activity Patterns of Neural Network Function Archives of Toxicology. *Function. Arch. Toxicol.* **2019**, *94*, 469-484.](https://doi.org/10.1007/s00204-019-02636-x)
 
 *   [​J Wang, DR Hallinger, AS Murr, AR Buckalew, RR Lougee, AM Richard, SC Laws, TE Stoker. High-throughput screening and chemotype-enrichment analysis of ToxCast phase II chemicals evaluated for human sodium-iodide symporter (NIS) inhibition. *Environment International* **2019**, *126*, 377-386.](https://www.sciencedirect.com/science/article/pii/S0160412018321196)
 
@@ -87,4 +87,4 @@ Visit the [​website](https://www.mn-am.com) of Molecular Networks GmbH and Alt
 
 The ChemoTyper application was developed by MN-AM (Molecular Networks GmbH, Nurnberg, Germany and Altamira LLC, Columbus, OH, USA) under a contract from the U.S. FDA, Center for Food Safety and Applied Nutrition (CFSAN), Office of Food Additive Safety. The CSRML-based ToxPrint chemotypes were developed by MN-AM while Chihae Yang was working at US FDA CFSAN, hence both ChemoTyper and ToxPrint Chemotypes are donated for public use.
 
-Chemotype Editor was further developed by MN-AM with partial funds from Cosmetics Europe (ontology project) and IMI eTRANSAFE project. We also recognize the special consultations on using the JSME editor developed by Peter Ertl (Novartis) and Bruno Bienfait (MN-AM).
+The Chemotype Editor was developed by MN-AM with partial funds from Cosmetics Europe (ontology project) and IMI2 project eTRANSAFE. We also recognize the special consultations on using the JSME editor developed by Peter Ertl (Novartis) and Bruno Bienfait (MN-AM).
