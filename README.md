@@ -1,9 +1,9 @@
-Welcome to ToxPrint [¶](#WelcometoToxPrint "Link to this section")
+Welcome to ToxPrint
 ==================================================================
 
 [​ToxPrint](http://toxprint.org) is a publicly-available invariant reference set of structural features targeted to cover chemical structures from the large toxicity databases and regulatory inventories (Yang, 2015). ToxPrint chemotypes were developed by Altamira LLC (now part of [​MN-AM](https://www.mn-am.com/)) for US FDA CFSAN’s CERES (Chemical Evaluation and Risk Estimation System) project. Chemotypes including the ToxPrint are implemented in the ChemoTyper, which was contracted from US FDA to Molecular Networks GmbH (now part of [​MN-AM](https://www.mn-am.com/))
 
-Chemotypes [¶](#Chemotypes "Link to this section")
+Chemotypes
 --------------------------------------------------
 
 This site houses the various chemotype files to support knowledge representation. Chemotypes are structural fragments that can encode physicochemical, atomic, and electronic properties in addition to substructural connectivity. They can be associated with biological properties and modes of action in the toxicity pathways or with AOP (adverse outcome) pathways through these encoded properties in addition to the structural motif. Chemotypes use the new CSRML (chemical substructure and reaction mark-up) language to represent both atom-bond connectivity as well as their properties such as pi-system or partial charges.
