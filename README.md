@@ -81,8 +81,8 @@ In technical support issues please contact us through [​info@toxprint.org](mai
 
 ## Acknowledgement
 
+The ChemoTyper application was developed by Molecular Networks GmbH, Erlangen, Germany under a contract from the U.S. FDA Center for Food Safety and Applied Nutrition (CFSAN), Office of Food Additive Safety.
+
+The XML-based substructure (or chemotype) definition language CSRML was co-developed in collaboration with Altamira LLC, Columbus, OH, USA.
+
 Visit the [​website](https://www.mn-am.com) of Molecular Networks GmbH and Altamira LLC.
-
-The ChemoTyper application was developed by MN-AM (Molecular Networks GmbH, Nurnberg, Germany and Altamira LLC, Columbus, OH, USA) under a contract from the U.S. FDA, Center for Food Safety and Applied Nutrition (CFSAN), Office of Food Additive Safety.
-
-The CSRML-based ToxPrint chemotypes were developed by MN-AM while Chihae Yang was working at US FDA CFSAN, hence both ChemoTyper and ToxPrint Chemotypes are donated for public use.
