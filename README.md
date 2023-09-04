@@ -1,5 +1,4 @@
 ![ToPrint Header](./images/header256x156.png)
-<img src="./images/chemoTyper-toxPrint.png" width="363" height="220">
 
 # Welcome to ToxPrint
 
