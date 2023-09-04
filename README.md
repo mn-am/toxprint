@@ -1,3 +1,5 @@
+![ToxPrint Header](./chemoTyper_toxPrint.svg)
+
 # Welcome to ToxPrint
 
 [​ToxPrint](http://toxprint.org) is a publicly-available invariant reference set (or library) of structural features (substructures) targeted to cover chemical structures from the large toxicity databases and regulatory inventories (Yang, 2015). ToxPrint chemotypes were developed by Altamira LLC (now part of [​MN-AM](https://www.mn-am.com/)) for the CERES (Chemical Evaluation and Risk Estimation System) project of U.S. FDA Center for Food Safety and Applied Nutrition (CFSAN). Chemotypes including the ToxPrint chemotypes are implemented in the ChemoTyper, which was contracted from U.S. FDA to Molecular Networks GmbH (now part of [​MN-AM](https://www.mn-am.com/)).
