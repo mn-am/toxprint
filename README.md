@@ -42,7 +42,7 @@ The ToxPrint chemotype library is implemented in the XML-based CSRML language an
 **Please note.** Updated ToxPrint CSRML files are not automatically replaced in your current [​ChemoTyper installation](http://chemotyper.org). To use new versions of ToxPrint chemotypes in your ChemoTyper installation, please follow the instructions below.
 
 *   Close the ChemoTyper application
-*   Download the ZIP archive that contains the latest ToxPrint CSRML file (named like "ToxPrint_V2.0_r<number>.xml"
+*   Download the ZIP archive that contains the latest ToxPrint CSRML file (named like "ToxPrint_V2.0_r\<number\>.xml")
 *   Extract its content into a folder of your choice, *e.g.*, "Documents"
 *   Start Windows File Explorer with administrative privileges (use "Run as Administrator" command)
 *   Move the extracted ToxPrint_V2.0_r<number>.xml file you into the folder "share" of your ChemoTyper installation at "C:\Program files (x86)\Molecular Networks\ChemoTyper\share"
