@@ -1,4 +1,4 @@
-![ToxPrint Header](./images/chemoTyper_toxPrint.svg)
+![ToxPrint Header](./images/chemoTyper-toxPrint.png)
 
 # Welcome to ToxPrint
 
