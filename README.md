@@ -36,7 +36,7 @@ When characterizing different databases, TTC datasets, or inventories to differe
 *   Threshold of Toxicological Concern (TTC) approach (part of ToxPrint library)
 *   [​Organic Flame Retardant Chemotypes](http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=25412)
 *   Antimicrobial Chemotypes (Yang 2020)
-*   Per- and Polyfluoroalkyl Substances (PFAS) Chemotypes (based on ToxPrints) 
+*   Per- and Polyfluoroalkyl Substances (PFAS) Chemotypes (based on ToxPrints) (Richard 2023)
 *   Bisphenol Chemotypes 
 
 The ToxPrint chemotype library is implemented in the XML-based CSRML language and can be applied using the publicly available [​ChemoTyper application](http://chemotyper.org).
@@ -59,7 +59,7 @@ After that the content of the latest ToxPrint file can be loaded as usual from t
 
 *   (Yang 2020) [C Yang, M Cheeseman, J Rathman, A Mostrag, N Skouli, V Vitcheva, S Goldberg. A new paradigm in threshold of toxicological concern based on chemoinformatics analysis of a highly curated database enriched with antimicrobials. *Food and Chemical Toxicology* **2020**, *143*, 111561.](https://doi.org/10.1016/j.fct.2020.111561)
 
-*   Paul-Friedmann 2020) [K ​Paul-Friedman, M Gagne, L-H Loo, P Karamertzanis, T Netzeva, T Sobanski, J Franzosa, AM Richard, R Lougee, A Gissi, J-Y Joey Lee, M Angrish, J-L Dorne, S Foster, K Raffaele, T Bahadori, M Gwinn, J Lambert, M Whelan, M Rasenberg, T Barton-Maclaren, RS Thomas. Utility of In Vitro Bioactivity as a Lower Bound Estimate of In Vivo Adverse Effect Levels and in Risk-Based Prioritization. *Toxicol. Sci.* **2020**, *173*, 202-225.](https://doi.org/10.1093/toxsci/kfz201)
+*   (Paul-Friedmann 2020) [K ​Paul-Friedman, M Gagne, L-H Loo, P Karamertzanis, T Netzeva, T Sobanski, J Franzosa, AM Richard, R Lougee, A Gissi, J-Y Joey Lee, M Angrish, J-L Dorne, S Foster, K Raffaele, T Bahadori, M Gwinn, J Lambert, M Whelan, M Rasenberg, T Barton-Maclaren, RS Thomas. Utility of In Vitro Bioactivity as a Lower Bound Estimate of In Vivo Adverse Effect Levels and in Risk-Based Prioritization. *Toxicol. Sci.* **2020**, *173*, 202-225.](https://doi.org/10.1093/toxsci/kfz201)
 
 *   (Nyfeller 2020) [​J Nyffeler, C Willis, R Lougee, AM Richard, K Paul-Friedman, JA Harrill. (2020). Bioactivity screening of environmental chemicals using imaging-based high-throughput phenotypic profiling. Toxicology and Applied Pharmacology **2020**, *389*, 114876.](https://www.sciencedirect.com/science/article/pii/S0041008X19304843)
 
