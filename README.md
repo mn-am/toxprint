@@ -1,4 +1,6 @@
-![ToxPrint Header](./images/header256x156.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![ToxPrint Header](./images/toxprintNewHomeGithub282x63.png)
+![ToxPrint Header](./images/header256x156.png)
+
+<img align="right" src="./images/toxprintNewHomeGithub282x63.png">&nbsp;</img>
 
 # Welcome to ToxPrint
 
