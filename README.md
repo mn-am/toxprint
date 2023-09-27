@@ -1,4 +1,4 @@
-![ToPrint Header](./images/header256x156.png) ![ToPrint Header](./images/toxprintNewHomeGithub282x63.png)
+![ToPrint Header](./images/header256x156.png) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![ToPrint Header](./images/toxprintNewHomeGithub282x63.png)
 
 # Welcome to ToxPrint
 
