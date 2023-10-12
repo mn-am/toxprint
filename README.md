@@ -38,8 +38,8 @@ When characterizing different databases, TTC datasets, or inventories to differe
 *   Threshold of Toxicological Concern (TTC) approach (part of ToxPrint library)
 *   [​Organic Flame Retardant Chemotypes](http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=25412)
 *   Antimicrobial Chemotypes (Yang 2020)
-*   Per- and Polyfluoroalkyl Substances (PFAS) Chemotypes (based on ToxPrints) (Richard 2023)
-*   Bisphenol Chemotypes 
+*   Per- and Polyfluoroalkyl Substances (PFAS) Chemotypes (based on ToxPrints) (Richard 2023, also downloadable from this repository)
+*   Bisphenol Chemotypes (also downloadable from this repository)
 
 The ToxPrint chemotype library is implemented in the XML-based CSRML language and can be applied using the publicly available [​ChemoTyper application](http://chemotyper.org).
 
@@ -71,11 +71,17 @@ After that the content of the latest ToxPrint file can be loaded as usual from t
 
 *   (Nelms 2019) [MD ​Nelms, R Lougee, DW Roberts, AM Richard, G Patlewicz. Comparing and contrasting the coverage of publicly available structural alerts for protein binding. *Computational Toxicology* **2019**, *12*, 100100.](https://www.sciencedirect.com/science/article/pii/S2468111319300283)
 
-*   (Yang 2015) [​C Yang, A Tarkhov, J Marusczyk, B Bienfait, J Gasteiger, T Kleinoeder, T Magdziarz, O Sacher, CH Schwab, J Schwoebel, L Terfloth, K Arvidson, A Richard, A Worth, J Rathman. New Publicly Available Chemical Query Language, CSRML, To Support Chemotype Representations for Application to Data Mining and Modeling. *J. Chem. Inf. Model.* **2015**, *55(3)*, 510-528.](http://pubs.acs.org/doi/abs/10.1021/ci500667v)
+*   (Yang 2015) [​C Yang, A Tarkhov, J Marusczyk, B Bienfait, J Gasteiger, T Kleinoeder, T Magdziarz, O Sacher, CH Schwab, J Schwoebel, L Terfloth, K Arvidson, A Richard, A Worth, J Rathman. New Publicly Available Chemical Query Language, CSRML, To Support Chemotype Representations for Application to Data Mining and Modeling. *J. Chem. Inf. Model.* **2015**, *55(3)*, 510-528.](https://doi.org/abs/10.1021/ci500667v)
 
 ## Contact
 
 For technical support please contact [​support@mn-am.com](mailto:support@mn-am.com).
+
+## How to Cite ChemoTyper
+
+Please use the full information provided in the section "Cite this repository" in the "About" tab or as a minimum as follows.
+
+(a) Yang *et al.* *J. Chem. Inf. Model.* **2015**, *55(3)*, 510-528 (DOI: doi.org/10.1021/ci500667v). (b) Chemotyper application by MN-AM, Version 1.3 r14761, github.com/mn-am/chemotyper, accessed on $DATE.
 
 ## Acknowledgement
 
