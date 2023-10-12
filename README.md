@@ -77,11 +77,11 @@ After that the content of the latest ToxPrint file can be loaded as usual from t
 
 For technical support please contact [​support@mn-am.com](mailto:support@mn-am.com).
 
-## How to Cite ChemoTyper
+## How to Cite ToxPrint Chemotypes
 
 Please use the full information provided in the section "Cite this repository" in the "About" tab or as a minimum as follows.
 
-(a) Yang *et al.* *J. Chem. Inf. Model.* **2015**, *55(3)*, 510-528 (DOI: doi.org/10.1021/ci500667v). (b) Chemotyper application by MN-AM, Version 1.3 r14761, github.com/mn-am/chemotyper, accessed on $DATE.
+(a) Yang *et al.* *J. Chem. Inf. Model.* **2015**, *55(3)*, 510-528 (DOI: doi.org/10.1021/ci500667v). (b)ToxPrint chemotypes by MN-AM, Version 2.0 r711 (2014-06-11), github.com/mn-am/toxprint, accessed on $DATE.
 
 ## Acknowledgement
 
