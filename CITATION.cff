@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ChemoTyper"
+version: 1.3 r14761
+date-released: 2023-09-29
+url: "https://github.com/mn-am/chemotyper"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Yang"
+    given-names: "Chihae"
+  - family-names: "Tarkhov"
+    given-names: "Aleksey"
+  - family-names: "Maruszcyk"
+    given-names: "Joerg"
+  - family-names: "Bienfait"
+    given-names: "Bruno"
+  - family-names: "Gasteiger"
+    given-names: "Johann"
+  - family-names: "Kleinoeder"
+    given-names: "Thomas"
+  - family-names: "Magdziarz"
+    given-names: "Tomasz"
+  - family-names: "Sacher"
+    given-names: "Oliver"
+  - family-names: "Schwab"
+    given-names: "Christof H."
+  - family-names: "Schwoebel"
+    given-names: "Johannes"
+  - family-names: "Terfloth"
+    given-names: "Lothar"
+  - family-names: "Arvidson"
+    given-names: "Kirk"
+  - family-names: "Richard"
+    given-names: "Ann"
+  - family-names: "Worth"
+    given-names: "Andrew"
+  - family-names: "Rathman"
+    given-names: "James"
+  doi: "10.1021/ci500667v"
+  journal: "Journal of Chemical Information and Modeling"
+  start: 510 # First page number
+  end: 528 # Last page number
+  title: "New Publicly Available Chemical Query Language, CSRML, To Support Chemotype Representations for Application to Data Mining and Modeling"
+  issue: 3
+  volume: 55
+  year: 2015
