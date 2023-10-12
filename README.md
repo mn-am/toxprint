@@ -57,7 +57,7 @@ After that the content of the latest ToxPrint file can be loaded as usual from t
 
 ## References
 
-*   (Richard 2023) [AM Richard, R Lougee, M Adams, H Hidle, C Yang, J Rathman, T Magdziarz, B Bienfait, AJ Williams, G Patlewicz. A New CSRML Structure-Based Fingerprint Method for Profiling and Categorizing Per- and Polyfluoroalkyl Substances (PFAS). *Chem Res Toxicol.* **2023**, *36(3)*, 508-534.](https://doi.org/10.1021/acs.chemrestox.2c00403).
+*   (Richard 2023) [AM Richard, R Lougee, M Adams, H Hidle, C Yang, J Rathman, T Magdziarz, B Bienfait, AJ Williams, G Patlewicz. A New CSRML Structure-Based Fingerprint Method for Profiling and Categorizing Per- and Polyfluoroalkyl Substances (PFAS). *Chem Res Toxicol.* **2023**, *36(3)*, 508-534.](https://doi.org/10.1021/acs.chemrestox.2c00403)
 
 *   (Yang 2020) [C Yang, M Cheeseman, J Rathman, A Mostrag, N Skouli, V Vitcheva, S Goldberg. A new paradigm in threshold of toxicological concern based on chemoinformatics analysis of a highly curated database enriched with antimicrobials. *Food and Chemical Toxicology* **2020**, *143*, 111561.](https://doi.org/10.1016/j.fct.2020.111561)
 
